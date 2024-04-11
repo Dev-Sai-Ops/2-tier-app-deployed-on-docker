@@ -10,7 +10,7 @@ Before you begin, make sure you have the following installed:
 # Setup for Dockerfile
 1.Clone this repository 
 ```bash
-https://github.com/VishalRepoWizard/Docker-Twotier-Flaskapp-mysql.git
+git clone https://github.com/Dev-Sai-Ops/2-tier-app-deployed-on-docker.git
 ```
 2.Build Flaskapp image using Dockerfile run this command where Dockerfile present
 ```bash
